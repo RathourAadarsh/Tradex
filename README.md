@@ -1,0 +1,2 @@
+# Tradex
+For investing app
